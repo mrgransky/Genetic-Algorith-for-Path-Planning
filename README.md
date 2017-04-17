@@ -20,3 +20,10 @@ A nonlinear model with multiple optimums:
 
 * Tounament Selection:
 
+![image](https://cloud.githubusercontent.com/assets/11946010/25102930/2f85056c-23c3-11e7-90ca-7abfef9c31b9.png)
+
+## 3. Results
+
+_Population Size Comparison
+
+
