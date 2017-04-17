@@ -12,3 +12,7 @@ A nonlinear model with multiple optimums:
 
 ## 2. Genetic Algorithm Schematic:
 
+![image](https://cloud.githubusercontent.com/assets/11946010/25102690/3c828b1e-23c2-11e7-981e-5b57f35cfe59.png)
+
+* Table of Initialized Population:
+
