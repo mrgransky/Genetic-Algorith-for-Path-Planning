@@ -30,7 +30,9 @@ A nonlinear model with multiple optimums:
 
 
 * Local and Gloabal Maxima of Path
+
 ![optimumcomparison](https://cloud.githubusercontent.com/assets/11946010/25103186/36bb7b08-23c4-11e7-88b6-d87948236d43.jpg)
 
 * Final Solution
+
 ![image](https://cloud.githubusercontent.com/assets/11946010/25103237/6bdb0fd8-23c4-11e7-9595-46aa664a57f1.png)
