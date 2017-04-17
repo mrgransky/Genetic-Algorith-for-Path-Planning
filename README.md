@@ -16,3 +16,7 @@ A nonlinear model with multiple optimums:
 
 * Table of Initialized Population:
 
+![image](https://cloud.githubusercontent.com/assets/11946010/25102860/e18ac536-23c2-11e7-852f-3fe3ab12ce4f.png)
+
+* Tounament Selection:
+
