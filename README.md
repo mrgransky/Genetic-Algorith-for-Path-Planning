@@ -19,28 +19,30 @@ In this assignment, the idea is to use the GA to find the global optimum of the 
 
 ![image](https://cloud.githubusercontent.com/assets/11946010/25102690/3c828b1e-23c2-11e7-981e-5b57f35cfe59.png)
 
-* Table of Initialized Population:
+- [x] Table of Initialized Population:
 
 ![image](https://cloud.githubusercontent.com/assets/11946010/25102860/e18ac536-23c2-11e7-852f-3fe3ab12ce4f.png)
 
-* Tounament Selection:
+* Roulette Wheel Selection vs. Tounament Selection:
 
-- [ ] Population Size
-- [ ] Crossover
-- [ ] Mutation
+- [x] Tournament Selection 
+
+  - [ ] Initialization
+  - [ ] Crossover
+  - [ ] Mutation
 
 ![image](https://cloud.githubusercontent.com/assets/11946010/25102930/2f85056c-23c3-11e7-90ca-7abfef9c31b9.png)
 
 ## 3. Results
 
-* Population Size Comparison
+- [x] Population Size Comparison
 
 ![pop_size](https://cloud.githubusercontent.com/assets/11946010/25103078/c39a7b2e-23c3-11e7-9348-1e7dc6f2c985.jpg)
 
-* Local and Gloabal Maxima of Path
+- [x] Local and Gloabal Maxima of Path
 
 ![optimumcomparison](https://cloud.githubusercontent.com/assets/11946010/25103186/36bb7b08-23c4-11e7-88b6-d87948236d43.jpg)
 
-* Final Solution
+- [x] Final Solution
 
 ![image](https://cloud.githubusercontent.com/assets/11946010/25103237/6bdb0fd8-23c4-11e7-9595-46aa664a57f1.png)
