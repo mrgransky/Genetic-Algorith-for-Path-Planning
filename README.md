@@ -1,6 +1,6 @@
 # Genetic Algorithm for Path Planning
 
-This repository belongs to the assignment of the course  ** "Artificial Intelligent Control" ** given to post graduate students at Lappeenranta University of Technology, Finland (Spring 2017) 
+This repository belongs to the assignment of the course  **"Artificial Intelligent Control"** given to post graduate students at Lappeenranta University of Technology, Finland (Spring 2017) 
 
 - [x] Course Instructor: **Professor Huapeng Wu**
 
@@ -25,11 +25,11 @@ In this assignment, the idea is to use the GA to find the global optimum of the 
 
 * Roulette Wheel Selection vs. Tounament Selection:
 
-- [x] Tournament Selection 
+  - [x] Tournament Selection 
 
-  - [ ] Initialization
-  - [ ] Crossover
-  - [ ] Mutation
+    - [ ] Initialization
+    - [ ] Crossover
+    - [ ] Mutation
 
 ![image](https://cloud.githubusercontent.com/assets/11946010/25102930/2f85056c-23c3-11e7-90ca-7abfef9c31b9.png)
 
