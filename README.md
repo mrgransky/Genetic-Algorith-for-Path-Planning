@@ -24,6 +24,9 @@ A nonlinear model with multiple optimums:
 
 ## 3. Results
 
-_Population Size Comparison
+* Population Size Comparison
+
+![pop_size](https://cloud.githubusercontent.com/assets/11946010/25103078/c39a7b2e-23c3-11e7-9348-1e7dc6f2c985.jpg)
 
 
+* Local and Gloabal Maxima of Path
